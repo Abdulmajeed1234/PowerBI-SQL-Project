@@ -11,7 +11,7 @@ Use MySQL and PowerBI to analyze product and customer data from the MavelMovie m
 - PowerBI
 
 ## Methodology
-A. Utilize standard data normalization practices to write 6 queries in MySQL to create the following data tables from the MavenMovie Database:
+A. Utilize standard data normalization practices to write 6 queries in MySQL to create the following data tables from the MavelMovie Database:
   1. Payments Table
   2. Customer Lookup Table
   3. Product Lookup Table
